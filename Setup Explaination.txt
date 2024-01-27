@@ -1,0 +1,3 @@
+Tox ini :
+used for testing while integration
+creates local env for testing
